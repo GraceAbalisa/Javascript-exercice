@@ -10,5 +10,5 @@
 // You will have time to focus on it later.
 
 (() => {
-    //alert('hello world!')
+    alert('hello world!')
 })();
